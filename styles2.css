@@ -1,0 +1,19 @@
+.image-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.skills{
+    display: flex;
+    flex-wrap: wrap;
+    /* flex-direction: column; */
+    /* flex-direction: ; */
+    justify-content: space-evenly;
+}
+.card{
+    display: inline-block;
+    /* background-color: aqua; */
+    /* border-radius: 40px; */
+    margin:50px;
+    border-radius: 5px;
+}
